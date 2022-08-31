@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Employees]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[Employees] (Table)
+     Alter
+       [dbo].[AddEmployee] (Procedure)
+       [dbo].[DeleteEmployee] (Procedure)
+       [dbo].[GetSelectedEmployee] (Procedure)
+       [dbo].[UpdateEmployee] (Procedure)
+     Create
+       [dbo].[GetAllEmployees] (Procedure)
+
+** Supporting actions
+
+If this deployment is executed, changes to [dbo].[Employees] might introduce run-time errors in [dbo].[GetEmployeeList].
+

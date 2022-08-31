@@ -1,0 +1,10 @@
+D:\Projects\2022\Employee101\EmployeeAPI.Db\bin\Debug\EmployeeAPI.Db.dacpac
+D:\Projects\2022\Employee101\EmployeeAPI.Db\bin\Debug\EmployeeAPI.Db.dll
+D:\Projects\2022\Employee101\EmployeeAPI.Db\bin\Debug\EmployeeAPI.Db.pdb
+D:\Projects\2022\Employee101\EmployeeAPI.Db\obj\Debug\EmployeeAPI.Db.sqlproj.AssemblyReference.cache
+D:\Projects\2022\Employee101\EmployeeAPI.Db\obj\Debug\EmployeeAPI.Db.dll
+D:\Projects\2022\Employee101\EmployeeAPI.Db\obj\Debug\EmployeeAPI.Db.pdb
+D:\Projects\2022\Employee101\EmployeeAPI.Db\obj\Debug\Model.xml
+D:\Projects\2022\Employee101\EmployeeAPI.Db\obj\Debug\refactor.xml
+D:\Projects\2022\Employee101\EmployeeAPI.Db\obj\Debug\postdeploy.sql
+D:\Projects\2022\Employee101\EmployeeAPI.Db\obj\Debug\predeploy.sql

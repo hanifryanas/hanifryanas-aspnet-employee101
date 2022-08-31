@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[SelectAddedEmployeeId]
+
+AS
+
+BEGIN
+	SELECT CAST(SCOPE_IDENTITY() AS int)
+END
